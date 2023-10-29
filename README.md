@@ -1,2 +1,2 @@
 # Assign_2
-We used python to add more functionalities to develop the customer relationship.
+We used Python programming to build new features to improve customer connections.
